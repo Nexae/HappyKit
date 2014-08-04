@@ -17,9 +17,13 @@ So, onto the setup.
 <h2>LINUX:</h2>
 1. Download the .zip <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>
 2. Download it in your home directory.
-3. Extract it
+3. Extract it and rename it to "happykit" 
 4. Open terminal
-5. run <code>python linux.py</code>
+5. run:
+```
+cd happykit
+python linux.py
+```
 6. The first time it runs, it will download something
 7. Done! 
 
