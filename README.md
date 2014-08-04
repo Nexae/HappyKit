@@ -16,8 +16,9 @@ So, onto the setup.
 
 <h2>LINUX:</h2>
 - Download the .zip <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>
-- Download it in your home directory.
+- Move it to your home directory.
 - Extract it and rename it to "happykit" 
+- Delete the .zip, but keep the folder (they are two seperate files)
 - Open terminal
 - run:
 ```
