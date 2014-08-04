@@ -1,4 +1,3 @@
-#official HappyKit for Linux
 import os, time, sys, random
 from ConfigParser import SafeConfigParser
 
@@ -11,7 +10,7 @@ if config.has_section("settings") != True:
 	config.add_section("settings")
 
 if config.has_option("settings", "firsttime") != True :
-	os.system("sudo apt-get install notify-send")
+	os.system("cd && cd happykit && bash getHappy.sh")
 	config.set("settings", "firsttime", "false")
 
 with open('HappyConfig.cfg', 'w') as f:
