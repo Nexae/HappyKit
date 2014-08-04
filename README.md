@@ -2,6 +2,8 @@ HappyKit
 ========
 Happy Kit is a really cool program for so many reasons. 
 
+***I DID NOT CREATE NOTIFU. I AM USING IT.***
+
 Every 5 minutes, it sends a popup notification like so:
 
 <img src="http://nexae.ryanzaleski.com/img/HappyCrop.JPG">
