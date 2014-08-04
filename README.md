@@ -15,17 +15,17 @@ On Linux, you shouldn't have to install ANYTHING!
 So, onto the setup.
 
 <h2>LINUX:</h2>
-1. Download the .zip <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>
-2. Download it in your home directory.
-3. Extract it and rename it to "happykit" 
-4. Open terminal
-5. run:
+- Download the .zip <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>
+- Download it in your home directory.
+- Extract it and rename it to "happykit" 
+- Open terminal
+- run:
 ```
 cd happykit
 python linux.py
 ```
-6. The first time it runs, it will download something
-7. Done! 
+- The first time it runs, it will download something
+- Done! 
 
 
 <h2>MAC: </h2>
