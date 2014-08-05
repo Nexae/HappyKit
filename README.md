@@ -58,8 +58,7 @@ Hang on. Working on it.
 Ok. So its super easy to use Happy Kit. First...
 
 - Download the .zip <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>
-- Move it to your Desktop, or really anywhere you would like
+- <b>IMPORTANT:</b>Move it to your DESKTOP
 - Extract it and rename the folder to "happykit"
 - Open the folder
-- Double-click "notifu.exe" to run it
 - Lastly, double-click "windows.exe" to get Happy Kit!
