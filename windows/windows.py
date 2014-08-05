@@ -22,6 +22,7 @@ while True:
 	nice =  random.choice(quotes)
  	os.system('cd Desktop')
  	os.system('cd happykit')
+ 	os.system('cd windows')
  	os.system('notifu /m "Happy Kit" /p "' + nice + '" /d 10000')
  	
  	#The pop up will go on for 10 seconds. Every 5 minutes a new quote comes up. 
