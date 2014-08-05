@@ -63,3 +63,5 @@ Ok. So its super easy to use Happy Kit. First...
 - Open command prompt
 - Type "cd Desktop" and "cd happykit"
 - Lastly, type <code>python windows.py</code>!
+- Note: If you are looking for a test case for Windows, look in the zip
+  for the file <code>TEST_CASE_WINDOWS.txt</code>
