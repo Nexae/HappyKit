@@ -60,5 +60,6 @@ Ok. So its super easy to use Happy Kit. First...
 - Download the .zip <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>
 - <b>IMPORTANT:</b>Move it to your DESKTOP
 - Extract it and rename the folder to "happykit"
-- Open the folder
-- Lastly, double-click "windows.exe" to get Happy Kit!
+- Open command prompt
+- Type "cd Desktop" and "cd happykit"
+- Lastly, type <code>python windows.py</code>!
