@@ -16,6 +16,23 @@ On Linux and Windows, you shouldn't have to install ANYTHING!
 <br />
 (Well, except for Happy Kit, that is)
 
+<h1>Top 4 reasons you should try happy kit:</h1>
+
+<b>1. It works on Linux, Mac OSX, and Windows</b>
+
+For most computers, it should work right after you download it.
+
+<b>2. It works out of the box</b>
+
+Yep, all you need to do is download it and run it.
+
+<b>3. It just works great</b>
+
+Happy kit simply works great! It's there when you need it and out of your way when you don't need it.
+
+<b>4. It makes you happy.</b>
+Happy kit will give you an inspirational quote every 5 minutes or so. That's what it does!
+
 So, onto the setup.
 
 <h2>LINUX:</h2>
