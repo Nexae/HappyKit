@@ -13,7 +13,8 @@ The best part is that it is cross platform.
 It works on Windows, Mac and Linux! It also uses native programs to do it. No having to do weird stuff.
 
 On Linux and Windows, you shouldn't have to install ANYTHING!
-(Well, except for Happy Kit, that is
+<br />
+(Well, except for Happy Kit, that is)
 
 So, onto the setup.
 
