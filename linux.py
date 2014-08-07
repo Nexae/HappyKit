@@ -1,20 +1,5 @@
 import os, time, sys, random
 from ConfigParser import SafeConfigParser
-
-global setupUser
-
-config = SafeConfigParser()
-config.read("HappyConfig.cfg")
-
-if config.has_section("settings") != True:
-	config.add_section("settings")
-
-if config.has_option("settings", "firsttime") != True :
-	os.system("cd && cd happykit && bash getHappy.sh")
-	config.set("settings", "firsttime", "false")
-
-with open('HappyConfig.cfg', 'w') as f:
-    config.write(f)
  
 quotes = [
  	"Be Happyyyy!.",#By nexae
