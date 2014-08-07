@@ -10,28 +10,11 @@ Every 5 minutes, it sends a popup notification like so:
 
 The best part is that it is cross platform.
 
-It works on Windows, Mac and Linux! It also uses native programs to do it. No having to do weird stuff.
+It works on Windows and Linux(Mac support coming soon)! It also uses native programs to do it. No having to do weird stuff.
 
 On Linux and Windows, you shouldn't have to install ANYTHING!
 <br />
 (Well, except for Happy Kit, that is)
-
-<h1>Top 4 reasons you should try happy kit:</h1>
-
-<b>1. It works on Linux, Mac OSX, and Windows</b>
-
-For most computers, it should work right after you download it.
-
-<b>2. It works out of the box</b>
-
-Yep, all you need to do is download it and run it.
-
-<b>3. It just works great</b>
-
-Happy kit simply works great! It's there when you need it and out of your way when you don't need it.
-
-<b>4. It makes you happy.</b>
-Happy kit will give you an inspirational quote every 5 minutes or so. That's what it does!
 
 So, onto the setup.
 
@@ -69,13 +52,14 @@ python linux.py
 
 
 <h2>WINDOWS: </h2>
-Ok. So its super easy to use Happy Kit. First...
+Ok. So it's <b>REALLY</b> easy to use Happy Kit. First...
 
 - Download the .zip <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>
 - <b>IMPORTANT:</b>Move it to your DESKTOP
 - Extract it and rename the folder to "happykit"
-- Open command prompt
-- Type "cd Desktop" and "cd happykit" and lastly "cd windows"
-- Finally, type <code>python windows.py</code>!
-- Note: If you are looking for a test case for Windows, look in the zip
-  for the file <code>TEST_CASE_WINDOWS.txt</code>
+- You can delete the zip now, if you want. Just be sure to keep the folder.
+- Open the happykit folder and the windows folder
+- Double-click "Windows.exe"
+- Enjoy Happy Kit!
+
+If you are an awesome person looking for a test case, look in the windows folder in happykit. It will be pretty obvious when you've found it.
