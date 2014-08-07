@@ -10,11 +10,16 @@ STEPS:
 3. Extract the zip
 4. Delte the zip, but keep the extracted folder
 5. Rename the extracted folder to 'happykit'
-5. Open the folder happykit
-6. Open the folder windows
-7. Make sure there is a notifu.exe
-8. However, do not click notifu.exe
-9. Double-click "windows.exe"
+5. Open the folder
+6. Make sure there is a notifu.exe
+7. However, do not click notifu.exe
+8. Open command prompt, or cmd
+9. type the following:
+cd 
+cd Desktop
+cd happykit
+python windows.py
+10. If you get an error, that is fine.
 
 GOAL: Have a popup appear in the lower right corner
 STATUS: PASSED
