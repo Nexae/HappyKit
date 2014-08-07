@@ -51,7 +51,21 @@ python linux.py
 
 
 <h2>MAC: </h2>
-Hang on. Working on it.
+The setup is similar to Linux, but a little different.
+
+- Download the ZIP <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>
+- Rename it to "happykit" 
+- Open terminal
+- run:
+```
+cd ~/Downloads
+mv ~/Downloads/happykit happykit
+cd
+cd happykit
+python linux.py
+```
+- The first time it runs, it will download something
+- Done! 
 
 
 <h2>WINDOWS: </h2>
