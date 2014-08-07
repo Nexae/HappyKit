@@ -19,18 +19,17 @@ On Linux and Windows, you shouldn't have to install ANYTHING!
 So, onto the setup.
 
 <h2>LINUX:</h2>
+<b>Note:</b> You may need to run this command: sudo apt-get install notify-send
+
 - Download the .zip <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>
-- Move it to your home directory.
+- Move it to your HOME directory.
 - Extract it and rename it to "happykit" 
 - Delete the .zip, but keep the folder (they are two seperate files)
 - Open terminal
-- run:
-```
-cd happykit
-python linux.py
-```
-- The first time it runs, it will download something
+- run <code>cd happykit && ./linux</code>
 - Done! 
+
+Optional: Move the linux file to your home directory (/home/YOURUSERNAME/linux) so you can just open the terminal and type ./linux
 
 
 <h2>MAC: </h2>
