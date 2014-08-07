@@ -10,12 +10,11 @@ STEPS:
 3. Extract the zip
 4. Delte the zip, but keep the extracted folder
 5. Rename the extracted folder to 'happykit'
-5. Open the folder happykit
-6. Open the folder windows
-7. Make sure there is a notifu.exe
-8. However, do not click notifu.exe
+6. Open the folder happykit
+7. Open the folder windows
+8. Make sure there is a notifu.exe. Don't click it, though.
 9. Double-click "windows.exe"
 
 GOAL: Have a popup appear in the lower right corner
 STATUS: PASSED
-DUE DATE: August 10, 2014
+DUE DATE: August 8, 2014
