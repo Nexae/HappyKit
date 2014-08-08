@@ -1,0 +1,51 @@
+Getting started with Happy Kit
+
+Happy Kit is an awesome program. Every 5 minutes, it sends a popup notification. 
+
+A great part about Happy Kit is that it is cross platform. Currently, there is official support for Windows and Linux, but I don't see why it wouldn't work on Mac OSX!
+
+The setup is really easy no matter what platform you are on.
+
+Linux: 
+1. Download happy kit 
+2. Extract the zip. This should create a folder.
+3. Delete the zip, but keep the folder.
+4. Move the folder to your home, and rename the folder to happykit .
+5. Open the folder
+6. On Ubuntu, double click 'linux' and you're done!
+7. On other OSes, you need to run these commands in terminal, and then you're done:
+
+cd happykit
+./linux
+
+
+Note: you may need to run sudo apt-get install notify-send in the terminal.
+
+Mac:
+Please note that there is no official support for Mac. These instructions may not work.
+
+1. Download happy kit 
+2. Open Finder
+3. Move happy kit to your Downloads folder (it should be in there by default)
+4. Rename the folder to happykit .
+5. Open terminal
+6. Type these commands:
+
+cd  ~/Downloads
+cd happykit
+sudo apt-get install notify-send
+python linux.py
+
+
+Please note that there will be official support for Mac by September 1, 2014.
+
+Windows:
+
+- Download happy kit 
+- IMPORTANT: Move it to your DESKTOP
+- Extract it and rename the folder to "happykit"
+- Open the happykit folder and then the windows folder
+- Double-click "windows.exe"
+- Enjoy Happy Kit!
+
+Note: I did not create Notifu. I am using it.
