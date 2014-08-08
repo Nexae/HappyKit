@@ -6,7 +6,13 @@ Happy Kit is a really cool program for so many reasons.
 
 Every 5 minutes, it sends a popup notification like so:
 
+<b>Linux<b> (<a href="http://www.elementaryos.org">Elementary OS</a>)
+<br />
 <img src="http://nexae.ryanzaleski.com/img/HappyCrop.JPG">
+
+<b>Windows</b> (Windows 8)
+<br />
+<img src="https://raw.githubusercontent.com/Nexae/HappyKit/a2f0d511c9516cac9d8569a5de0a3091d6a7f1ac/windows/HappySnap.PNG">
 
 The best part is that it is cross platform.
 
