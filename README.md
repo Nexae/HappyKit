@@ -12,51 +12,47 @@ Happy Kit is an awesome program. Every 5 minutes, it sends a popup notification.
 <img src="https://raw.githubusercontent.com/Nexae/HappyKit/master/Screenshots/Ubuntu_1404_Screenshot.JPG">
 
 
-<b>Windows</b> (Windows 8)
+<b>Windows 8</b>
 <br />
 <img src="https://raw.githubusercontent.com/Nexae/HappyKit/a2f0d511c9516cac9d8569a5de0a3091d6a7f1ac/windows/HappySnap.PNG">
 
-The best part is that it is cross platform.
+As you can see, a great part about Happy Kit is that it is cross platform. Currently, there is officiall support for Windows and Linux, but I don't see why it wouldn't work on Mac OSX!
 
-It works on Windows and Linux(Mac support coming soon)! It also uses native programs to do it. No having to do weird stuff.
+The setup is really easy no matter what platform you are on.
 
-On Linux and Windows, you shouldn't have to install ANYTHING!
-<br />
-(Well, except for Happy Kit, that is)
+<h3>Linux: </h3>
+1. Download happy kit <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>!
+2. Extract the zip. This should create a folder.
+3. Delete the zip, but keep the folder.
+4. Rename the folder to happykit .
+5. Open the folder
+6. (<b>Ubuntu</b>) Double-click "Linux"
+7. (<b>Ubuntu</b>) Done!
+8. (<b>Other Linux OSes</b>) Open terminal
+9. (<b>Other Linux OSes</b>) CD to the place you have happy kit (for example, if you have it in your Downloads, type <code>cd ~/Downloads</code> ) and type <code>cd happykit</code>
+10. (<b>Other Linux OSes</b>) Lastly, type <code>./linux</code> in terminal!
 
-So, onto the setup.
+note: you may need to run <code>sudo apt-get install notify-send</code> in the terminal.
 
-<h2>LINUX:</h2>
-<b>Note:</b> You may need to run this command: sudo apt-get install notify-send
+<h3>Mac: </h3>
+Please note that there is no official support for Mac. These instructions may not work.
 
-- Download the .zip <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>
-- Move it to your HOME directory.
-- Extract it and rename it to "happykit" 
-- Delete the .zip, but keep the folder (they are two seperate files)
-- Open terminal
-- run <code>cd happykit && ./linux</code>
-- Done! 
-
-Optional: Move the linux file to your home directory (/home/YOURUSERNAME/linux) so you can just open the terminal and type ./linux
-
-
-<h2>MAC: </h2>
-The setup is similar to Linux, but a little different.
-
-- Download the ZIP <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>
-- Rename it to "happykit" 
-- Open terminal
-- run:
+1. Download happy kit <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>!
+2. Open Finder
+3. Get to the place you downloaded Happy Kit (it may be in your Downloads)
+4. Rename the folder to happykit .
+5. Open terminal
+6. Type these commands:
 ```
-cd ~/Downloads
-mv ~/Downloads/happykit happykit
-cd
+cd 
+cd (Type the folder you put happy kit in((This may be: ~/Downloads )))
 cd happykit
+sudo apt-get install notify-send
 python linux.py
 ```
-- The first time it runs, it will download something
-- Done! 
 
+
+Please note that there will be official support for Mac by <b>September 1, 2014</b>.
 
 <h2>WINDOWS: </h2>
 Ok. So it's <b>REALLY</b> easy to use Happy Kit. First...
