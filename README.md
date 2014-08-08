@@ -1,14 +1,16 @@
-HappyKit
-========
-Happy Kit is a really cool program for so many reasons. 
+<h2>Happy Kit</h2>
 
-***I DID NOT CREATE NOTIFU. I AM USING IT.***
+Happy Kit is an awesome program. Every 5 minutes, it sends a popup notification. Here are some screenshots.
 
-Every 5 minutes, it sends a popup notification like so:
-
-<b>Linux<b> (<a href="http://www.elementaryos.org">Elementary OS</a>)
+<b>Linux</b> (<a href="http://www.elementaryos.org">Elementary OS</a>)
 <br />
 <img src="http://nexae.ryanzaleski.com/img/HappyCrop.JPG">
+
+
+<b>Linux</b> (<a href="http://www.ubuntu.com/">Ubuntu</a>)
+<br />
+<img src="https://raw.githubusercontent.com/Nexae/HappyKit/master/Screenshots/Ubuntu_1404_Screenshot.JPG">
+
 
 <b>Windows</b> (Windows 8)
 <br />
@@ -68,3 +70,4 @@ Ok. So it's <b>REALLY</b> easy to use Happy Kit. First...
 - Enjoy Happy Kit!
 
 If you are an awesome person looking for a test case, look in the windows folder in happykit. It will be pretty obvious when you've found it.
+Lastly, I did not create Notifu. I am using it.
