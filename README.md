@@ -35,7 +35,7 @@ cd happykit
 ./linux
 ```
 
-Note: you may need to run <code>sudo apt-get install notify-send</code> in the terminal.
+Note: you may need to run <code>sudo apt-get install notify-osd</code> in the terminal.
 
 <h3>Mac: </h3>
 Please note that there is no official support for Mac. These instructions may not work.
