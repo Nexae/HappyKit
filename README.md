@@ -4,7 +4,7 @@ Quoti is an awesome program. Every 5 minutes, it sends a really awesome popup no
 
 <b>Linux</b> (<a href="http://www.elementaryos.org">Elementary OS</a>)
 <br />
-<img src="http://nexae.ryanzaleski.com/img/HappyCrop.JPG">
+<img src="https://raw.githubusercontent.com/Nexae/HappyKit/master/Screenshots/Quoti_ElementaryOS.png">
 
 
 <b>Linux</b> (<a href="http://www.ubuntu.com/">Ubuntu</a>)
