@@ -9,7 +9,7 @@ Quoti is an awesome program. Every 5 minutes, it sends a really awesome popup no
 
 <b>Linux</b> (<a href="http://www.ubuntu.com/">Ubuntu</a>)
 <br />
-<img src="https://raw.githubusercontent.com/Nexae/HappyKit/master/Screenshots/Ubuntu_1404_Screenshot.JPG">
+<img src="https://raw.githubusercontent.com/Nexae/HappyKit/master/Screenshots/Quoti_Ubuntu1404.JPG">
 
 
 <b>Windows 8</b>
