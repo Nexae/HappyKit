@@ -1,8 +1,9 @@
-import os, time, sys, random
-from ConfigParser import SafeConfigParser
- 
+import time, sys, random
+from gi.repository import Notify
+
+#Quotes left: 12
+
 quotes = [
- 	"Be Happyyyy!.",#By nexae
  	"Try to be a rainbow in someones cloud.", #Maya Angelou
  	"I can't change the direction of the wind, but I can adjust my sails to always reach my destination.", #Jimmy Dean
  	"Change your thoughts and you change the world.", #Norman Vincent Peale
@@ -16,12 +17,30 @@ quotes = [
  	"Most folks are as happy as they make their minds to be.", #Abraham Lincoln
  	"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.", #Lao Tzu
  	"If you can dream it, you can do it.", #Walt Disney
- ]
- 
+	"If you're offered a seat on a rocket ship, don't ask what seat! Just get on.", #Sheryl Sandberg
+	"If you're going to be thinking anything, you might as well think big.", #Donald Trump
+	"Pearls don't lie on the seashore. If you want one, you must dive for it.", # Chinese proverb
+	"The universe has no restrictions. You place restrictions on the universe with your expectations.", #Deepak Chopra
+	"In order to succeed, your desire for success should be greater than your fear of failure.", #Bill Cosby
+	"There is only one way to avoid criticism: do nothing, say nothing, and be nothing.", #Aristotle
+	"Always go with your passions. Never ask yourself if it's realistic or not.", #Deepak Chopra
+	"Leap and the net will appear.", #Zen Saying
+	"Be a yardstick of quality. Some people aren't used to an environment where excellence is expected.", #Awesome quote...;) By Steve Jobs
+	"Only those who will risk going too far can possibly find out how far one can go.", #T. S. Eliot
+	"The best time to plant a tree was 20 years ago. The second best time is now.", #Chinese Proverb
+	"I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.", #Albert Einstein
+	"If you do what you've always done, you'll get what you've always gotten.", #Tony Robbins
+	"Life is the art of drawing without an eraser." #John W. Gardner
+	"The earth has music for those who listen."  #William Shakespeare
+]
+
 while True:
  
-	nice =  random.choice(quotes)
-	os.system("""osascript -e 'display notification """ + nice + """ with title "Happy Kit"' """)
+	RandomQuote =  random.choice(quotes)
+
+	Notify.init("Quoti")
+	ShowQuote = Notify.Notification.new("" + RandomQuote + "", "Quoti by Nexae", "dialog-information")
+	ShowQuote.show()
  	
- 	#The pop up will go on for ten seconds. Every 5 minutes a new quote comes up. 
- 	time.sleep(310)
+ 	#The pop up will go on for eleven seconds. Every 15 minutes a new quote comes up. 
+ 	time.sleep(911)
