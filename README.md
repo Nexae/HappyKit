@@ -49,8 +49,7 @@ Please note that there is no official support for Mac. These instructions may no
 ```
 cd  ~/Downloads
 cd happykit
-sudo apt-get install notify-send
-python linux.py
+python mac.py
 ```
 
 Please note that there will be official support for Mac by <b>September 1, 2014</b>.
