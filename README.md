@@ -4,12 +4,12 @@ Quoti is an awesome program. Every 5 minutes, it sends a really awesome popup no
 
 <b>Linux</b> (<a href="http://www.elementaryos.org">Elementary OS</a>)
 <br />
-<img src="http://nexae.ryanzaleski.com/img/HappyCrop.JPG">
+<img src="https://raw.githubusercontent.com/Nexae/HappyKit/master/Screenshots/Quoti_ElementaryOS.png">
 
 
 <b>Linux</b> (<a href="http://www.ubuntu.com/">Ubuntu</a>)
 <br />
-<img src="https://raw.githubusercontent.com/Nexae/HappyKit/master/Screenshots/Ubuntu_1404_Screenshot.JPG">
+<img src="https://raw.githubusercontent.com/Nexae/HappyKit/master/Screenshots/Quoti_Ubuntu1404.JPG">
 
 
 <b>Windows 8</b>
@@ -17,8 +17,6 @@ Quoti is an awesome program. Every 5 minutes, it sends a really awesome popup no
 <img src="https://raw.githubusercontent.com/Nexae/HappyKit/a2f0d511c9516cac9d8569a5de0a3091d6a7f1ac/windows/HappySnap.PNG">
 
 As you can see, a great part about Quoti is that it is cross platform. Currently, there is official support for Windows and Linux, but I don't see why it wouldn't work on Mac OSX!
-
-Another great thing is that the entire .zip is only 3.3 mb in size!
 
 The setup is really easy no matter what platform you are on.
 
@@ -35,8 +33,6 @@ cd happykit
 ./linux
 ```
 
-Note: you may need to run <code>sudo apt-get install notify-osd</code> in the terminal.
-
 <h3>Mac: </h3>
 Please note that there is no official support for Mac. These instructions may not work.
 
@@ -49,8 +45,7 @@ Please note that there is no official support for Mac. These instructions may no
 ```
 cd  ~/Downloads
 cd happykit
-sudo apt-get install notify-send
-python linux.py
+python mac.py
 ```
 
 Please note that there will be official support for Mac by <b>September 1, 2014</b>.
