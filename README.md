@@ -18,8 +18,6 @@ Quoti is an awesome program. Every 5 minutes, it sends a really awesome popup no
 
 As you can see, a great part about Quoti is that it is cross platform. Currently, there is official support for Windows and Linux, but I don't see why it wouldn't work on Mac OSX!
 
-Another great thing is that the entire .zip is only 3.3 mb in size!
-
 The setup is really easy no matter what platform you are on.
 
 <h3>Linux: </h3>
