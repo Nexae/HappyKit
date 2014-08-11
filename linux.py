@@ -47,5 +47,4 @@ while True:
 	ShowQuote = Notify.Notification.new("" + RandomQuote + "", "Quoti by Nexae", "dialog-information")
 	ShowQuote.show()
  	
- 	#The pop up will go on for eleven seconds. Every 15 minutes a new quote comes up. 
- 	time.sleep(911)
+ 	time.sleep(1800)
