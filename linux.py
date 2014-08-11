@@ -34,8 +34,8 @@ quotes = [
 	"The earth has music for those who listen.",  #William Shakespeare
 	"Even if you fall on your face, you're still moving forward.", #Victor Kiam
 	"A smile is the universal welcome.", #Max Eastman
-	"Weather forecast for tonight: dark." #George Calin
-	"We can't help everyone, but everyone can help someone." #Ronald Reagan
+	"Weather forecast for tonight: dark.", #George Calin
+	"We can't help everyone, but everyone can help someone.", #Ronald Reagan
 
 ]
 
