@@ -1,7 +1,7 @@
 import time, sys, random
 from gi.repository import Notify
 
-#Quotes left: 12
+#Quotes left: 8
 
 quotes = [
  	"Try to be a rainbow in someones cloud.", #Maya Angelou
@@ -30,8 +30,13 @@ quotes = [
 	"The best time to plant a tree was 20 years ago. The second best time is now.", #Chinese Proverb
 	"I am thankful for all of those who said NO to me. It's because of them I'm doing it myself.", #Albert Einstein
 	"If you do what you've always done, you'll get what you've always gotten.", #Tony Robbins
-	"Life is the art of drawing without an eraser." #John W. Gardner
-	"The earth has music for those who listen."  #William Shakespeare
+	"Life is the art of drawing without an eraser.", #John W. Gardner
+	"The earth has music for those who listen.",  #William Shakespeare
+	"Even if you fall on your face, you're still moving forward.", #Victor Kiam
+	"A smile is the universal welcome.", #Max Eastman
+	"Weather forecast for tonight: dark.", #George Calin
+	"We can't help everyone, but everyone can help someone.", #Ronald Reagan
+
 ]
 
 while True:
@@ -42,5 +47,4 @@ while True:
 	ShowQuote = Notify.Notification.new("" + RandomQuote + "", "Quoti by Nexae", "dialog-information")
 	ShowQuote.show()
  	
- 	#The pop up will go on for eleven seconds. Every 15 minutes a new quote comes up. 
- 	time.sleep(911)
+ 	time.sleep(1800)
