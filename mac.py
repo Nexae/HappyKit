@@ -1,5 +1,4 @@
-import time, sys, random
-from gi.repository import Notify
+import time, sys, random, pynotify
 
 #Quotes left: 8
 
@@ -43,8 +42,8 @@ while True:
  
 	RandomQuote =  random.choice(quotes)
 
-	Notify.init("Quoti")
-	ShowQuote = Notify.Notification.new("" + RandomQuote + "", "Quoti by Nexae", "dialog-information")
+	pynotify.init("Quoti")
+	ShowQuote = pynotify.Notification(RandomQuote, "Quoti by Nexae", "dialog-information")
 	ShowQuote.show()
  	
  	time.sleep(1800)
