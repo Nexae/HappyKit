@@ -16,7 +16,7 @@ Quoti is an awesome program. Every 5 minutes, it sends a really awesome popup no
 <br />
 <img src="https://raw.githubusercontent.com/Nexae/HappyKit/a2f0d511c9516cac9d8569a5de0a3091d6a7f1ac/windows/HappySnap.PNG">
 
-As you can see, a great part about Quoti is that it is cross platform. Currently, there is official support for Windows and Linux, but I don't see why it wouldn't work on Mac OSX!
+As you can see, a great part about Quoti is that it is cross platform. Currently, there is official support for Windows and Linux. It should work on Mac, though!
 
 The setup is really easy no matter what platform you are on.
 
@@ -48,7 +48,7 @@ cd happykit
 python mac.py
 ```
 
-Please note that there will be official support for Mac by <b>September 1, 2014</b>.
+There will be official support for Mac by <b>September 1, 2014</b>.
 
 <h3>Windows: </h3>
 
