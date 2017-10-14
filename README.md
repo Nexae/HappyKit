@@ -1,3 +1,5 @@
+(NOTE: THIS PROJECT HAS BEEN DISCONTINUED AS OF OCTOBER 2017.)
+
 <h2>Quoti</h2>
 
 Quoti is an awesome program. Every 5 minutes, it sends a really awesome popup notification. Here are some screenshots.
