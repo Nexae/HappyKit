@@ -1,6 +1,9 @@
-import time, sys, random
+import time, sys, random, gi
+gi.require_version('Notify', '0.7')
 from gi.repository import Notify
 
+
+#No idea what this comment was about
 #Quotes left: 8
 
 quotes = [

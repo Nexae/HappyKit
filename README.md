@@ -1,6 +1,6 @@
-(NOTE: THIS PROJECT HAS BEEN DISCONTINUED AS OF OCTOBER 2017.)
+# Quoti for Desktop
 
-<h2>Quoti</h2>
+## This program has not been maintained since August 13, 2014. It actually still works, but it will never be updated. Feel free to use this work under the [Creative Commons 0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Quoti is an awesome program. Every 5 minutes, it sends a really awesome popup notification. Here are some screenshots.
 
@@ -20,45 +20,4 @@ Quoti is an awesome program. Every 5 minutes, it sends a really awesome popup no
 
 As you can see, a great part about Quoti is that it is cross platform. Currently, there is official support for Windows and Linux. It should work on Mac, though!
 
-The setup is really easy no matter what platform you are on.
-
-<h3>Linux: </h3>
-1. Download Quoti <a href="https://github.com/Nexae/quot/archive/master.zip">here</a>!
-2. Extract the zip. This should create a folder.
-3. Delete the zip, but keep the folder.
-4. Move the folder to your home, and rename the folder to happykit .
-5. Open the folder
-6. On Ubuntu, double click 'linux' and you're done!
-7. On other OSes, you need to run these commands in terminal, and then you're done:
-```
-cd happykit
-./linux
-```
-
-<h3>Mac: </h3>
-Please note that there is no official support for Mac. These instructions may not work.
-
-1. Download Quoti <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>!
-2. Open Finder
-3. Move Quoti to your Downloads folder (it should be in there by default)
-4. Rename the folder to happykit .
-5. Open terminal
-6. Type these commands:
-```
-cd  ~/Downloads
-cd happykit
-python mac.py
-```
-
-There will be official support for Mac by <b>September 1, 2014</b>.
-
-<h3>Windows: </h3>
-
-- Download Quoti <a href="https://github.com/Nexae/HappyKit/archive/master.zip">here</a>!
-- <b>IMPORTANT:</b>Move it to your DESKTOP
-- Extract it and rename the folder to "happykit"
-- Open the happykit folder and then the windows folder
-- Double-click "windows.exe"
-- Enjoy Happy Kit!
-
-Note: I did not create Notifu. I am using it.
+The setup is really easy no matter what platform you are on. Just run *Quoti.py* in your Python interpreter. Please ensure you have python-gobject installed, as this uses PyGObject.
